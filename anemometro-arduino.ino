@@ -1,19 +1,3 @@
-/*
-   Anemômetro para Estações Meteorológicas com Arduino
-
-
-   WR Kits & Usina Info
-
-
-   Plataforma utilizada: Arduino UNO
-
-
-   Autor: Eng. Wagner Rambo  Data: Novembro de 2016
-
-   www.wrkits.com.br | facebook.com/wrkits | youtube.com/user/canalwrkits
-
-*/
-
 // --- Constantes ---
 const float pi = 3.14159265;     //Número de pi
 int period = 5000;               //Tempo de medida(miliseconds)
